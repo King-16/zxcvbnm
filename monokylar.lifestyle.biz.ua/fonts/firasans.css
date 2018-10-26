@@ -1,0 +1,84 @@
+@font-face {
+    font-family: 'Fira Sans';
+    src: local('Fira Sans ExtraLight'), local('FiraSans-ExtraLight'), url('http://monokylar.lifestyle.biz.ua/fonts/firasansextralight.woff2')/*tpa=http://vksgroup.com.ua/monokular/fonts/firasansextralight.woff2*/ format('woff2'), url('http://monokylar.lifestyle.biz.ua/fonts/firasansextralight.woff')/*tpa=http://vksgroup.com.ua/monokular/fonts/firasansextralight.woff*/ format('woff'), url('http://monokylar.lifestyle.biz.ua/fonts/firasansextralight.ttf')/*tpa=http://vksgroup.com.ua/monokular/fonts/firasansextralight.ttf*/ format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Fira Sans';
+    src: local('Fira Sans ExtraLight Italic'), local('FiraSans-ExtraLightItalic'), url('http://monokylar.lifestyle.biz.ua/fonts/firasansextralightitalic.woff2')/*tpa=http://vksgroup.com.ua/monokular/fonts/firasansextralightitalic.woff2*/ format('woff2'), url('http://monokylar.lifestyle.biz.ua/fonts/firasansextralightitalic.woff')/*tpa=http://vksgroup.com.ua/monokular/fonts/firasansextralightitalic.woff*/ format('woff'), url('http://monokylar.lifestyle.biz.ua/fonts/firasansextralightitalic.ttf')/*tpa=http://vksgroup.com.ua/monokular/fonts/firasansextralightitalic.ttf*/ format('truetype');
+    font-weight: 100;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Fira Sans';
+    src: local('Fira Sans Light'), local('FiraSans-Light'), url('http://monokylar.lifestyle.biz.ua/fonts/firasanslight.woff2')/*tpa=http://vksgroup.com.ua/monokular/fonts/firasanslight.woff2*/ format('woff2'), url('http://monokylar.lifestyle.biz.ua/fonts/firasanslight.woff')/*tpa=http://vksgroup.com.ua/monokular/fonts/firasanslight.woff*/ format('woff'), url('http://monokylar.lifestyle.biz.ua/fonts/firasanslight.ttf')/*tpa=http://vksgroup.com.ua/monokular/fonts/firasanslight.ttf*/ format('truetype');
+    font-weight: 200;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Fira Sans';
+    src: local('Fira Sans Light Italic'), local('FiraSans-LightItalic'), url('http://monokylar.lifestyle.biz.ua/fonts/firasanslightitalic.woff2')/*tpa=http://vksgroup.com.ua/monokular/fonts/firasanslightitalic.woff2*/ format('woff2'), url('http://monokylar.lifestyle.biz.ua/fonts/firasanslightitalic.woff')/*tpa=http://vksgroup.com.ua/monokular/fonts/firasanslightitalic.woff*/ format('woff'), url('http://monokylar.lifestyle.biz.ua/fonts/firasanslightitalic.ttf')/*tpa=http://vksgroup.com.ua/monokular/fonts/firasanslightitalic.ttf*/ format('truetype');
+    font-weight: 200;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Fira Sans';
+    src: local('Fira Sans Book'), local('FiraSans-Book'), url('http://monokylar.lifestyle.biz.ua/fonts/firasansbook.woff2')/*tpa=http://vksgroup.com.ua/monokular/fonts/firasansbook.woff2*/ format('woff2'), url('http://monokylar.lifestyle.biz.ua/fonts/firasansbook.woff')/*tpa=http://vksgroup.com.ua/monokular/fonts/firasansbook.woff*/ format('woff'), url('http://monokylar.lifestyle.biz.ua/fonts/firasansbook.ttf')/*tpa=http://vksgroup.com.ua/monokular/fonts/firasansbook.ttf*/ format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Fira Sans';
+    src: local('Fira Sans Book Italic'), local('FiraSans-BookItalic'), url('http://monokylar.lifestyle.biz.ua/fonts/firasansbookitalic.woff2')/*tpa=http://vksgroup.com.ua/monokular/fonts/firasansbookitalic.woff2*/ format('woff2'), url('http://monokylar.lifestyle.biz.ua/fonts/firasansbookitalic.woff')/*tpa=http://vksgroup.com.ua/monokular/fonts/firasansbookitalic.woff*/ format('woff'), url('http://monokylar.lifestyle.biz.ua/fonts/firasansbookitalic.ttf')/*tpa=http://vksgroup.com.ua/monokular/fonts/firasansbookitalic.ttf*/ format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Fira Sans';
+    src: local('Fira Sans'), local('FiraSans-Regular'), url('http://monokylar.lifestyle.biz.ua/fonts/firasans.woff2')/*tpa=http://vksgroup.com.ua/monokular/fonts/firasans.woff2*/ format('woff2'), url('http://monokylar.lifestyle.biz.ua/fonts/firasans.woff')/*tpa=http://vksgroup.com.ua/monokular/fonts/firasans.woff*/ format('woff'), url('http://monokylar.lifestyle.biz.ua/fonts/firasans.ttf')/*tpa=http://vksgroup.com.ua/monokular/fonts/firasans.ttf*/ format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Fira Sans';
+    src: local('Fira Sans Italic'), local('FiraSans-Italic'), url('http://monokylar.lifestyle.biz.ua/fonts/firasansitalic.woff2')/*tpa=http://vksgroup.com.ua/monokular/fonts/firasansitalic.woff2*/ format('woff2'), url('http://monokylar.lifestyle.biz.ua/fonts/firasansitalic.woff')/*tpa=http://vksgroup.com.ua/monokular/fonts/firasansitalic.woff*/ format('woff'), url('http://monokylar.lifestyle.biz.ua/fonts/firasansitalic.ttf')/*tpa=http://vksgroup.com.ua/monokular/fonts/firasansitalic.ttf*/ format('truetype');
+    font-weight: 400;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Fira Sans';
+    src: local('Fira Sans Medium'), local('FiraSans-Medium'), url('http://monokylar.lifestyle.biz.ua/fonts/firasansmedium.woff2')/*tpa=http://vksgroup.com.ua/monokular/fonts/firasansmedium.woff2*/ format('woff2'), url('http://monokylar.lifestyle.biz.ua/fonts/firasansmedium.woff')/*tpa=http://vksgroup.com.ua/monokular/fonts/firasansmedium.woff*/ format('woff'), url('http://monokylar.lifestyle.biz.ua/fonts/firasansmedium.ttf')/*tpa=http://vksgroup.com.ua/monokular/fonts/firasansmedium.ttf*/ format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Fira Sans';
+    src: local('Fira Sans Medium Italic'), local('FiraSans-MediumItalic'), url('http://monokylar.lifestyle.biz.ua/fonts/firasansmediumitalic.woff2')/*tpa=http://vksgroup.com.ua/monokular/fonts/firasansmediumitalic.woff2*/ format('woff2'), url('http://monokylar.lifestyle.biz.ua/fonts/firasansmediumitalic.woff')/*tpa=http://vksgroup.com.ua/monokular/fonts/firasansmediumitalic.woff*/ format('woff'), url('http://monokylar.lifestyle.biz.ua/fonts/firasansmediumitalic.ttf')/*tpa=http://vksgroup.com.ua/monokular/fonts/firasansmediumitalic.ttf*/ format('truetype');
+    font-weight: 500;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Fira Sans';
+    src: local('Fira Sans SemiBold'), local('FiraSans-SemiBold'), url('http://monokylar.lifestyle.biz.ua/fonts/firasanssemibold.woff2')/*tpa=http://vksgroup.com.ua/monokular/fonts/firasanssemibold.woff2*/ format('woff2'), url('http://monokylar.lifestyle.biz.ua/fonts/firasanssemibold.woff')/*tpa=http://vksgroup.com.ua/monokular/fonts/firasanssemibold.woff*/ format('woff'), url('http://monokylar.lifestyle.biz.ua/fonts/firasanssemibold.ttf')/*tpa=http://vksgroup.com.ua/monokular/fonts/firasanssemibold.ttf*/ format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Fira Sans';
+    src: local('Fira Sans SemiBold Italic'), local('FiraSans-SemiBoldItalic'), url('http://monokylar.lifestyle.biz.ua/fonts/firasanssemibolditalic.woff2')/*tpa=http://vksgroup.com.ua/monokular/fonts/firasanssemibolditalic.woff2*/ format('woff2'), url('http://monokylar.lifestyle.biz.ua/fonts/firasanssemibolditalic.woff')/*tpa=http://vksgroup.com.ua/monokular/fonts/firasanssemibolditalic.woff*/ format('woff'), url('http://monokylar.lifestyle.biz.ua/fonts/firasanssemibolditalic.ttf')/*tpa=http://vksgroup.com.ua/monokular/fonts/firasanssemibolditalic.ttf*/ format('truetype');
+    font-weight: 600;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Fira Sans';
+    src: local('Fira Sans Bold'), local('FiraSans-Bold'), url('http://monokylar.lifestyle.biz.ua/fonts/firasansbold.woff2')/*tpa=http://vksgroup.com.ua/monokular/fonts/firasansbold.woff2*/ format('woff2'), url('http://monokylar.lifestyle.biz.ua/fonts/firasansbold.woff')/*tpa=http://vksgroup.com.ua/monokular/fonts/firasansbold.woff*/ format('woff'), url('http://monokylar.lifestyle.biz.ua/fonts/firasansbold.ttf')/*tpa=http://vksgroup.com.ua/monokular/fonts/firasansbold.ttf*/ format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Fira Sans';
+    src: local('Fira Sans Bold Italic'), local('FiraSans-BoldItalic'), url('http://monokylar.lifestyle.biz.ua/fonts/firasansbolditalic.woff2')/*tpa=http://vksgroup.com.ua/monokular/fonts/firasansbolditalic.woff2*/ format('woff2'), url('http://monokylar.lifestyle.biz.ua/fonts/firasansbolditalic.woff')/*tpa=http://vksgroup.com.ua/monokular/fonts/firasansbolditalic.woff*/ format('woff'), url('http://monokylar.lifestyle.biz.ua/fonts/firasansbolditalic.ttf')/*tpa=http://vksgroup.com.ua/monokular/fonts/firasansbolditalic.ttf*/ format('truetype');
+    font-weight: 700;
+    font-style: italic;
+}

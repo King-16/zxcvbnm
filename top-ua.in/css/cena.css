@@ -1,0 +1,13 @@
+.cena {
+position: relative;
+font-size: 40px;
+}
+ 
+.cena:before {
+border-bottom: 3px solid red;
+position: absolute;
+content: "";
+width: 100%;
+height: 50%;
+transform: rotate(7deg);
+}
